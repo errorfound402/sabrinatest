@@ -22,7 +22,7 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-Enter welcome nibba .
+Welcome to hell .
 
 
 Click (Help) button to find out more about how to use me to my full potential."""
