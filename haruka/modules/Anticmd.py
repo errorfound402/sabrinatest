@@ -10,10 +10,10 @@ from telegram import ParseMode
 from telegram.ext import CommandHandler, run_async, Filters, MessageHandler
 from telegram.utils.helpers import mention_markdown, mention_html, escape_markdown
 
-import Haruka.modules.sql.welcome_sql as sql
-from Haruka import dispatcher, LOGGER
-from Haruka.modules.helper_funcs.chat_status import user_admin, can_delete
-from Haruka.modules.log_channel import loggable
+from haruka.modules.sql import welcome_sql as sql
+from haruka import dispatcher, LOGGER
+from haruka.modules.helper_funcs.chat_status import user_admin, can_delete
+from haruka.modules.log_channel import loggable
 
 
 @run_async
