@@ -24,6 +24,7 @@ PM_START = """Hello {}, my name is {}!
 
 Welcome to hell .
 
+This bot is managed by [Baby ツ](https://t.me/Baby_xD)
 
 Click (Help) button to find out more about how to use me to my full potential."""
 
